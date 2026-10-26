@@ -7,7 +7,7 @@ This project is in a usable, working state regarding the features that the C wra
 Windows, Linux and Mac are directly supported. The native libraries were build by [the workflow the C Wrapper provides](https://github.com/amerkoleci/joltc/blob/main/.github/workflows/build.yml).
 
 # Building The Project
-1. Download [Java 26](https://www.oracle.com/de/java/technologies/downloads/)
+1. Download [Java 26](https://adoptium.net/temurin/releases?version=26&mode=filter&os=any&arch=any)
 2. Download the sources or clone the repo
 
 ### Using The Terminal
